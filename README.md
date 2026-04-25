@@ -6,10 +6,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dodamhaae&layout=compact"><br><br>
-</p>
-
+#  
 ![캡처_2023_03_20_14_06_20_27](https://user-images.githubusercontent.com/102854580/226251739-5a6f4061-7374-4ddb-9a9a-a217296c6454.png)
 ---
 ### [생육 환경 최적화 경진대회 [Analytics 분야]](https://github.com/dodamhaae/Dacon/tree/main/OptimizingTheGrowthENV)
